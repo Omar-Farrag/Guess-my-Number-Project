@@ -26,7 +26,7 @@ No frameworks were used in this game. Just barebone HTML5, CSS3, and Javascript
 ## Credits
 
 This project was completed as part of an Online Course on Udemy titled
-**The Complete JavaScript Course 2023: From Zero to Expert!**. The game's
+**_The Complete JavaScript Course 2023: From Zero to Expert!_** The game's
 user interface and rules were both designed by the course instructor, **Jonas Shmedtman**, and
 students had to implement the game's logic using Javascript. Still, Jonas guided students all the
 way through the implementation by providing walkthrough videos. Therefore, I would like to thank
