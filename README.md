@@ -16,7 +16,7 @@ is generated and the player has to guess the number.
 
 There are two ways to play the game:
 
-1. Clone this repository and open the index file on any browswer (works offline)
+1. Clone this repository and open the index file on any browser (works offline)
 2. Go to the following website: https://guess-the-number-of.netlify.app
 
 ## Languages and Frameworks
