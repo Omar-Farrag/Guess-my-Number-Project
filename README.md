@@ -1,4 +1,4 @@
-# GUESS MY NUMBER PROJECT
+# GUESS the NUMBER PROJECT
 
 ## Description
 
